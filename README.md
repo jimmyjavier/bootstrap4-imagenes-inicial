@@ -1,2 +1,2 @@
-# bootstrap4-plantilla-inicial
-Plantilla inicial de bootstrap 4 con archivos JS y CSS
+# bootstrap4-imagenes-inicial
+Plantilla inicial para ejemplificar el uso de imágenes en bootstrap 4
